@@ -75,7 +75,7 @@ gcloud config set project <PROJECT_ID>
 chmod +x gke_resource_exporter.sh
 
 # スクリプトの実行
-./list_workload.sh
+./gke_resource_exporter.sh
 ```
 
 ### ステップ 4: 出力結果の確認
